@@ -1,0 +1,156 @@
+{
+  "adminPin": "admin123",
+  "clientSlug": "deni-dwi",
+  "clientName": "Deni & Dwi",
+  "general": {
+    "pageTitle": "The Wedding of Deni Prasetyo & Dwi Kirana",
+    "metaDescription": "Undangan Pernikahan Deni & Dwi . Minggu, 27 September 2026",
+    "groomNickname": "Deni Prasetyo",
+    "brideNickname": "Dwi Kirana",
+    "monogram": "D & D",
+    "heroDateBadge": "Minggu, 27 September 2026",
+    "countdownTarget": "2026-09-27T01:00:00.000Z",
+    "heroImage": "assets/uploads/file_1788947010632_e3j0q.jpg",
+    "heroTag": "Pernikahan",
+    "useCoverImage": true,
+    "coverImage": "assets/uploads/file_1788947576759_namqb.jpg",
+    "theme": "rose-gold"
+  },
+  "quote": {
+    "arabic": "وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+    "translation": "\"Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berpikir.\"",
+    "surah": "QS. Ar-Rum: 21"
+  },
+  "groom": {
+    "fullName": "Deni",
+    "father": "",
+    "mother": "",
+    "instagram": "deni",
+    "instagramUrl": "https://instagram.com/deni",
+    "photo": "assets/uploads/file_1788946914132_yffog.jpg",
+    "order": ""
+  },
+  "bride": {
+    "fullName": "Dwi",
+    "father": "",
+    "mother": "",
+    "instagram": "dwi",
+    "instagramUrl": "https://instagram.com/dwi",
+    "photo": "assets/uploads/file_1788946917363_599ah.jpg",
+    "order": ""
+  },
+  "story": [
+    {
+      "year": "2021",
+      "title": "Pertemuan Pertama",
+      "desc": "Takdir mempertemukan kami pertama kali di lingkungan kampus saat berada dalam satu kelompok proyek desain bersama."
+    },
+    {
+      "year": "2023",
+      "title": "Menjalin Hubungan",
+      "desc": "Dari pertemanan hangat, kami menyadari adanya keselarasan visi hidup dan sepakat untuk melangkah ke jenjang yang lebih serius."
+    },
+    {
+      "year": "2025",
+      "title": "Hari Lamaran",
+      "desc": "Dengan restu kedua orang tua dan keluarga besar, kami meresmikan niat tulus melalui ikatan pertunangan yang khidmat."
+    },
+    {
+      "year": "2026",
+      "title": "Menuju Pelaminan",
+      "desc": "Insya Allah kami akan mengikrarkan akad suci pernikahan, melangkah bersama membina keluarga yang penuh sakinah dan kasih sayang."
+    }
+  ],
+  "events": {
+    "akad": {
+      "title": "Ijab Qabul",
+      "badge": "AKAD NIKAH",
+      "date": "Minggu, 27 September 2026",
+      "time": "08.00 - 10.00 WIB",
+      "venue": "Rumah Mempelai Putri",
+      "address": "Kalirejo Talun Pekalongan",
+      "mapsUrl": "",
+      "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Akad+Nikah+Rizky+%26+Annisa&dates=20261024T010000Z/20261024T030000Z&details=Pernikahan+Rizky+Pratama+%26+Annisa+Larasati&location=Hotel+Mulia+Senayan+Jakarta"
+    },
+    "resepsi": {
+      "title": "Resepsi Pernikahan",
+      "badge": "RESEPSI",
+      "date": "Minggu, 27 September 2026",
+      "time": "13.00 - 16.00 WIB",
+      "venue": "Rumah Mempelai Putri",
+      "address": "Kalirejo Talun Pekalongan",
+      "mapsUrl": ""
+    },
+    "dresscode": {
+      "title": "Dress Code Acara",
+      "note": "Tamu undangan disarankan mengenakan busana bernuansa:",
+      "detail": "Batik / Gaun Formal / Jas Santai",
+      "colors": [
+        {
+          "name": "Champagne",
+          "hex": "#E8D5C4"
+        },
+        {
+          "name": "Rose Gold",
+          "hex": "#C5836C"
+        },
+        {
+          "name": "Warm White",
+          "hex": "#F8F5EE"
+        },
+        {
+          "name": "Mocca Earthy",
+          "hex": "#8C6D58"
+        }
+      ],
+      "enabled": false
+    }
+  },
+  "music": {
+    "mode": "audio",
+    "audioUrl": "assets/uploads/file_1788945891946_osiu6.mp3",
+    "title": "DAVID BAYU   SEGALANYA ITU KAMU (OFFICIAL VIDEO) [2lugCOicoz8]",
+    "artist": "Special Wedding Arrangement",
+    "autoplay": true
+  },
+  "gallery": [
+    {
+      "id": "g_1788946988798_mmr6",
+      "url": "assets/uploads/file_1788946988781_hhiyg.jpg",
+      "caption": "DSCF4044",
+      "span": 1
+    },
+    {
+      "id": "g_1788946989199_3g87",
+      "url": "assets/uploads/file_1788946989183_q1wu1.jpg",
+      "caption": "DSCF4064",
+      "span": 1
+    },
+    {
+      "id": "g_1788946989369_0185",
+      "url": "assets/uploads/file_1788946989354_kp6ll.jpg",
+      "caption": "DSCF4068",
+      "span": 1
+    }
+  ],
+  "gifts": {
+    "banks": [],
+    "qris": {
+      "image": "assets/qris.jpg",
+      "title": "QRIS Pembayaran Digital",
+      "description": "Dapat di-scan menggunakan seluruh aplikasi Mobile Banking & E-Wallet (GoPay, OVO, DANA, ShopeePay)"
+    },
+    "physical": {
+      "title": "Kirim Kado Fisik",
+      "address": "Kalirejo Talun Pekalongan",
+      "recipient": "Dwi"
+    }
+  },
+  "footer": {
+    "quote": "\"Merupakan suatu kehormatan dan kebahagiaan yang tak terhingga bagi kami sekeluarga, apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan doa restu kepada kami.\"",
+    "groomFamily": "Keluarga Bpk. Bambang Prasetyo & Ibu Siti Rahmawati",
+    "brideFamily": "Keluarga Bpk. Hendra Kusuma & Ibu Dewi Anggraeni",
+    "copyright": "© 2026 Deni Prasetyo & Dwi Kirana Wedding",
+    "names": "Deni & Dwi"
+  }
+}
